@@ -1,20 +1,18 @@
 <script>
-	import * as config from '$src/app.config';
 	import DarkModeToggle from '$lib/components/DarkModeToggle';
-
+	import * as config from '$src/app.config';
 	// icon svgs
-	import XTwitter from '$lib/icons/XTwitter';
-	import Github from '$lib/icons/Github';
-	import Dribbble from '$lib/icons/Dribbble';
-	import Codepen from '$lib/icons/Codepen';
 	import BadgeCheck from '$lib/icons/BadgeCheck';
-
+	import Codepen from '$lib/icons/Codepen';
+	import Dribbble from '$lib/icons/Dribbble';
+	import Github from '$lib/icons/Github';
+	import XTwitter from '$lib/icons/XTwitter';
 	// work/project list svgs
 	import Astronaut from '$lib/icons/Astronaut';
 	import ChatTMS from '$lib/icons/Chattms';
 	import Death from '$lib/icons/Death';
-	import ShortEdits from '$lib/icons/Shortedits';
 	import ItBetterInThailand from '$lib/icons/ItBetterInThailand';
+	import ShortEdits from '$lib/icons/Shortedits';
 </script>
 
 <svelte:head>
@@ -44,7 +42,7 @@
 
 			<div class="px-5 text-xl text-center md:text-left md:text-2xl lg:text-2xl xl:text-2xl md:px-0">
 				<p class="">
-					I created this template for my personal page. It's simple, responsive, and kinda looks like X? Get it from <a href="https://github.com/loopsandvariables/x-themed-profile" class="underline" target="_blank">GitHub</a>. My
+					My (VAD) created this template for my personal page. It's simple, responsive, and kinda looks like X? Get it from <a href="https://github.com/loopsandvariables/x-themed-profile" class="underline" target="_blank">GitHub</a>. My
 					<a href="https://loopsandvariables.com" class="underline" target="_blank">original page</a> is here.
 				</p>
 				<p class="mt-[1em]"><a href="/updates" class="underline">Join my email list</a> for product updates and free stuff I make for other solo builders.</p>

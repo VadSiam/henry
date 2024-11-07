@@ -9,7 +9,7 @@
 	import XTwitter from '$lib/icons/XTwitter';
 	// work/project list svgs
 	import Astronaut from '$lib/icons/Astronaut';
-	import ChatTMS from '$lib/icons/Chattms';
+	import ChatTMS from '$lib/icons/ChatTMS';
 	import Death from '$lib/icons/Death';
 	import ItBetterInThailand from '$lib/icons/ItBetterInThailand';
 	import ShortEdits from '$lib/icons/Shortedits';
@@ -42,7 +42,7 @@
 
 			<div class="px-5 text-xl text-center md:text-left md:text-2xl lg:text-2xl xl:text-2xl md:px-0">
 				<p class="">
-					My (VAD) created this template for my personal page. It's simple, responsive, and kinda looks like X? Get it from <a href="https://github.com/loopsandvariables/x-themed-profile" class="underline" target="_blank">GitHub</a>. My
+					Vad Re-created this template for my personal page. It's simple, responsive, and kinda looks like X? Get it from <a href="https://github.com/loopsandvariables/x-themed-profile" class="underline" target="_blank">GitHub</a>. My
 					<a href="https://loopsandvariables.com" class="underline" target="_blank">original page</a> is here.
 				</p>
 				<p class="mt-[1em]"><a href="/updates" class="underline">Join my email list</a> for product updates and free stuff I make for other solo builders.</p>
